@@ -1,5 +1,4 @@
 # Zhairaa-
-
 # 👋 Halo, Saya Zhaira Aulia Putri
 
 💻 Siswa Rekayasa Perangkat Lunak (RPL) yang tertarik pada pengembangan aplikasi mobile, desain UI/UX, dan teknologi digital.
