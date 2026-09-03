@@ -1,4 +1,5 @@
 # Zhairaa-
+
 # 👋 Halo, Saya Zhaira Aulia Putri
 
 💻 Siswa Rekayasa Perangkat Lunak (RPL) yang tertarik pada pengembangan aplikasi mobile, desain UI/UX, dan teknologi digital.
@@ -41,8 +42,6 @@ Aplikasi toko online yang memungkinkan pengguna melihat produk, mencari barang, 
 ## 📫 Connect With Me
 
 📷 Instagram : @zhayy
-
-💻 GitHub : github.com/zhayy
 
 📧 Email : zhaira.aulia@gmail.com
 
